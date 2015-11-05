@@ -1,0 +1,16 @@
+1
+4
+filho1 pai1 mae1
+pai1 avoh1 avom1
+mae1 avoh2 avom2
+avom1 bisavoh1 bisavom1
+2
+3 pai1
+4
+5
+pai1 mae1
+5
+pai1 filho1
+5
+filho1 avoh1
+6

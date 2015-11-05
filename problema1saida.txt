@@ -1,0 +1,104 @@
+
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 1
+Digite o numero de elementos para inserir: 
+Insira o 0 valor para ser inserido na arvore: 50 Inserido com Sucesso!
+Insira o 1 valor para ser inserido na arvore: 22 Inserido com Sucesso!
+Insira o 2 valor para ser inserido na arvore: 45 Inserido com Sucesso!
+Insira o 3 valor para ser inserido na arvore: 70 Inserido com Sucesso!
+Insira o 4 valor para ser inserido na arvore: 80 Inserido com Sucesso!
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 3
+50 22 45 70 80 
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 2
+Insira um valor para ser removido da arvore: 22 Removido com Sucesso!
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 4
+45 80 70 50 
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 5
+45 50 70 80 
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 6
+[50 [45 [] []] [70 [] [80 [] []]]]
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 7
+Insira um valor para ser buscado na arvore: 20 Nao Encontrado!
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 7
+Insira um valor para ser buscado na arvore: 50 Encontrado!
+Menu de opcoes:
+(1) Inserir
+(2) Remover
+(3) Impressao Pre-Ordem
+(4) Impressao Pos-Ordem
+(5) Impressao Em Ordem
+(6) Impressao em labelled bracketing
+(7) Busca
+(8) Sair
+                Opcao Escolhida: 8

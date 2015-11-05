@@ -1,0 +1,68 @@
+
+Menu de opcoes:
+(1) Inserir
+(2) Impressao por Geracao
+(3) Antepassados de Alguem
+(4) Impressao Labelled Bracketing
+(5) Grau de Parentesco
+(6) Sair
+               Opcao Escolhida: 1
+Digite o numero de elementos para inserir: filho1 pai1 mae1 Inserido com Sucesso!pai1 avoh1 avom1 Inserido com Sucesso!mae1 avoh2 avom2 Inserido com Sucesso!avom1 bisavoh1 bisavom1 Inserido com Sucesso!
+Menu de opcoes:
+(1) Inserir
+(2) Impressao por Geracao
+(3) Antepassados de Alguem
+(4) Impressao Labelled Bracketing
+(5) Grau de Parentesco
+(6) Sair
+               Opcao Escolhida: 2
+filho1 
+pai1 mae1 
+avoh1 avom1 avoh2 avom2 
+bisavoh1 bisavom1 
+
+Menu de opcoes:
+(1) Inserir
+(2) Impressao por Geracao
+(3) Antepassados de Alguem
+(4) Impressao Labelled Bracketing
+(5) Grau de Parentesco
+(6) Sair
+               Opcao Escolhida: 3
+Digite o nome do antepassado para imprimir: Busca por antepassados de: 4
+
+Menu de opcoes:
+(1) Inserir
+(2) Impressao por Geracao
+(3) Antepassados de Alguem
+(4) Impressao Labelled Bracketing
+(5) Grau de Parentesco
+(6) Sair
+               Opcao Escolhida: 5
+Digite os parentes para calcular o grau: (Ex: pai filho)Grau de Parentesco de pai1 mae1 eh: 0 
+Menu de opcoes:
+(1) Inserir
+(2) Impressao por Geracao
+(3) Antepassados de Alguem
+(4) Impressao Labelled Bracketing
+(5) Grau de Parentesco
+(6) Sair
+               Opcao Escolhida: 5
+Digite os parentes para calcular o grau: (Ex: pai filho)Grau de Parentesco de pai1 filho1 eh: 1 
+Menu de opcoes:
+(1) Inserir
+(2) Impressao por Geracao
+(3) Antepassados de Alguem
+(4) Impressao Labelled Bracketing
+(5) Grau de Parentesco
+(6) Sair
+               Opcao Escolhida: 5
+Digite os parentes para calcular o grau: (Ex: pai filho)Grau de Parentesco de filho1 avoh1 eh: 2 
+Menu de opcoes:
+(1) Inserir
+(2) Impressao por Geracao
+(3) Antepassados de Alguem
+(4) Impressao Labelled Bracketing
+(5) Grau de Parentesco
+(6) Sair
+               Opcao Escolhida: 6
